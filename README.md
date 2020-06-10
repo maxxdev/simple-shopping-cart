@@ -1,7 +1,6 @@
 # Simple Shopping Cart 
 
-## SimpleShoppingCart.js
-Simple shopping cart is a class to store items collection and has methods for working with them.
+SimpleShoppingCart.js is a class to store items collection and has methods for working with them.
 Store is localStorage
 
 ### How to use
