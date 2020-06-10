@@ -1,6 +1,3 @@
-/*showCart(cart)
-const itemCart = {id: 3, name: 'tomatos', qty: 6, price: 1}
-console.log('Is this item in cart? ', cart.isItemInCart(itemCart))*/
 jQuery(document).ready(function () {
   "use strict";
 
@@ -48,7 +45,7 @@ jQuery(document).ready(function () {
     {id: 1, name: 'Potato', qty: 1, price: 2},
     {id: 2, name: 'Chocolate', qty: 6, price: 3},
     {id: 3, name: 'Milk', qty: 6}, //getting error on add to cart - item doesn't have price
-    {id: 3, name: 'Tomato', qty: 6, price: 1},
+    {id: 4, name: 'Tomato', qty: 6, price: 1},
 
   ]
 
