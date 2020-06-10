@@ -8,6 +8,7 @@ Store is localStorage
 * cart must be init like that: ``` const cart = new SimpleShoppingCart() ```
 
 The name of localStorage can be changed by passing custom name to constructor like that:
+
 ```  new SimpleShoppingCart('myCustomCart') ```
 
 By default class is using "simpleShoppingCart" as name 
